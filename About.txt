@@ -1,0 +1,13 @@
+Whole Picture: Mario part but the minigames are rick and morty themed really stupid like these. 
+
+Where there are 2 fighters and they have to find each other. (Honestly right now the the player on the left moves to the right and rise versa.) On the way characters can interact with object to find powerups(thats the kicker.)
+ 
+
+Theme:
+- Street fighter style
+
+Movements:
+- Left right 
+
+Coding Challenge:
+- online multiplayer features (cause my next set of game should be multiplayer)
