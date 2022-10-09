@@ -6,6 +6,7 @@ TagManager:
   tags:
   - player
   - enemy
+  - RFist
   layers:
   - Default
   - TransparentFX

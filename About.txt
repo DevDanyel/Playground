@@ -11,3 +11,10 @@ Movements:
 
 Coding Challenge:
 - online multiplayer features (cause my next set of game should be multiplayer)
+
+
+Log:
+
+10/9/2022
+- baisc movments encorperated and set up for interacting with surrounding objects and hitting the player. 
+-would like to next create fighting mechanics i guess. health bar and stuff
