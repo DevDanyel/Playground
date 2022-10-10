@@ -4,5 +4,12 @@ using UnityEngine;
 
 public class HealthBar : MonoBehaviour
 {
+
+    public int P2Health = 5;
+
+
+    public void LoseHealth(int hitPower){
+        P2Health -= hitPower;
+    }
     
 }
