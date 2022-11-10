@@ -12,7 +12,7 @@ public class RightFist : MonoBehaviour
 
 
     void Update(){
-        if(Input.GetKeyUp(KeyCode.Q)){
+        if(Input.GetKey(KeyCode.Q)){
             P1Anim.SetTrigger("PunchR");
             }
     }
